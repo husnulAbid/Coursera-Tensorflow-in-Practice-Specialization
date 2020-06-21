@@ -1,1 +1,1 @@
-A Coursera Specialization
+Tensorflow in Practice is a Coursera Specialization. I started this hands-on course in July 2020 during quarentine period after finishing the specialization on Deep Learning offered by Andrew Ng on Coursera. Here I have uploaded the solution of the exercises. I hope it will help you doing the exercises. I am very much greatful to Laurence Moroney and Coursera for this amazing course. 
